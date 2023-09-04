@@ -84,3 +84,10 @@
     display: table;
     clear: both;
   }
+
+  .center{
+    text-align: center;
+  }
+  h2{
+    color: #004bad;
+  }
