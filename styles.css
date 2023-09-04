@@ -37,26 +37,19 @@
  a:hover{
     color:lightcoral;
  }
-
-img{
-    position:absolute;
-    top: 500px;
-    left: 630px;
-}
-
-p{
-    position:absolute;
+ 
+ p{
     text-align: center;
-    top: 760px;
-    font-size: 20px;
 }
+img{
+    margin: auto;
+    display: block;
+    width: 30%;
+}
+
 .about{
-    position:absolute;
-    top: 700px; 
-    left: 160px;
+    text-align: center;
 }
 .do{
-    position: absolute; 
-    top: 700px; 
-    right: 310px;
+    text-align: center;
 }

@@ -91,10 +91,30 @@
   
   h2{
     color: #004bad;
+    text-align: center;
+  }
+  p{
+    text-align: center;
   }
 
   h3{
-    color: #004bad;
+    color: #5b8dcf;
+    text-align: center;
+  }
+  .SE{
+    text-align: center;
+  }
+  
+  .EE{
+    text-align: center;
+  }
+
+  .CE{
+    text-align: center;
+  }
+  
+  .SO{
+    text-align: center;
   }
 
   
